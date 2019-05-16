@@ -38,10 +38,10 @@ import time
 from TwitterAPI import TwitterAPI
 from itertools import combinations
 
-consumer_key = '4RzkHJ1FzpnQW8mD2TDQAY9st'
-consumer_secret = 'RkIE9MEBR5UUsHbh2taQUsBbUKlddCWIqWa4MiFsGzTFY4GQT3'
-access_token = '1089239714824179714-aNVuWo5oG6U4vSHwd4uOTjgd8Tcnq1'
-access_token_secret = 'pErdyRjp3ihkqg56FZd2Od3uedf6hTiuqewTdCAFvQdoN'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 # This method is done for you.
